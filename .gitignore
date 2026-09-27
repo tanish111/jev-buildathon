@@ -4,3 +4,5 @@ node_modules/
 *.buildathon-tmp
 final.json
 submission-*.md
+.agents/**
+skills-lock.json
